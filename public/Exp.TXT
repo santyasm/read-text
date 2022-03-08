@@ -1,0 +1,34 @@
+No;Nome Completo;Título;ID;Elonac;FIDE;DNasc;Fed;Sexo;Cat;Gr;NoClube;Nome Clube;id FIDE;Fonte;Pts;Des1;Des2;Des3;Des4;Des5;Clas;Sobrenome;Nome;Atítulo
+1;Groszpeter Attila;GM;104076;2514;2541;00.00.1960;HUN;;;;1031;Sk Husek Wien;700053;AUT;2;7,5;4;2,00;2;;20;Groszpeter;Attila;
+2;Baumegger Siegfried;IM;100663;2451;2456;00.00.1972;AUT;;;;3036;Sk Purbach;1602829;AUT;2½;7,5;3,5;3,75;3;;13;Baumegger;Siegfried;
+3;Lendwai Reinhard;IM;108225;2415;2424;00.00.1966;AUT;;;;1027;Raffeisen Währing;1600176;AUT;1½;6;2,5;1,00;2;;28;Lendwai;Reinhard;
+4;Kelecevic Nedeljko;IM;106466;2346;2323;00.00.1947;BIH;;S60;;7077;Plehan-Derventa;14400537;AUT;½;6,5;3;0,50;2;;33;Kelecevic;Nedeljko;
+5;Kozarcanin Sead;;120314;2202;2187;00.00.1940;CRO;;S60;;0;;14504650;AUT;1½;9;4;2,75;2;;21;Kozarcanin;Sead;
+6;Kolesar Milan;FM;107071;2145;2207;00.00.1960;SVK;;;;2028;Union Sparkasse Matzen;14900130;AUT;1½;6,5;3,5;1,75;2;;26;Kolesar;Milan;
+7;Dornauer Joachim;;102038;2094;2135;00.00.1969;AUT;;;;2005;Ksv Boehlerwerk;1607324;AUT;3;9;4,5;6,50;2;;4;Dornauer;Joachim;
+8;Badstueber Karl;;100492;0;2072;00.00.1944;AUT;;S60;;1027;Raffeisen Währing;1609351;AUT;2;7,5;4;3,00;2;;19;Badstueber;Karl;
+9;Amberger Dieter Ing.;;100204;0;2063;00.00.1970;AUT;;;;2039;Sv Stockerau;1605119;AUT;1;7;3,5;2,00;1;;31;Amberger;Dieter;Ing.
+10;Gasser Klaus;;103480;1976;2036;00.00.1974;AUT;;;;7010;Bregenz;1607332;AUT;2½;7,5;4;4,25;2;;12;Gasser;Klaus;
+11;Clauer Denis;;119597;1974;1993;00.00.1980;GER;;;;0;;4699661;AUT;1;7;3,5;1,25;2;;32;Clauer;Denis;
+12;Binder Karl;;100985;1889;2064;00.00.1943;AUT;;S60;;2003;Schachklub Baden;1609033;AUT;1½;6;3;2,25;2;;27;Binder;Karl;
+13;Kastner Andreas;;106396;1856;0;00.00.1971;AUT;;;;4067;Sv Raika Kleinzell;0;AUT;1½;6,5;3,5;2,25;1;;25;Kastner;Andreas;
+14;Kuntner Reinhard;;107732;1852;0;00.00.1975;AUT;;;;1009;Sz Favoriten Wien;0;AUT;1;7,5;3,5;1,25;2;;30;Kuntner;Reinhard;
+15;Bruder Peter;;101400;1717;0;00.00.1944;AUT;;S60;;8059;Gratkorn;0;AUT;2½;9;4,5;5,00;1;;9;Bruder;Peter;
+16;Holzer Jan;;105468;1672;0;00.00.1971;AUT;;;;1120;Landesverband Wien;0;AUT;1½;7;4;1,50;2;;24;Holzer;Jan;
+17;Altzinger Wilfried Dr.;;100189;0;0;00.00.1958;AUT;;;;1035;Tschaturanga Wien;0;AUT;2½;9,5;4,5;5,00;2;;8;Altzinger;Wilfried;Dr.
+18;Eisner Leopold;;102430;1507;0;00.00.1926;AUT;;S60;;5022;Trimmelkam;0;AUT;1½;7,5;4,5;1,75;2;;22;Eisner;Leopold;
+19;Hainzl Thomas;;104499;1463;0;00.00.1968;AUT;;;;1004;Sk Hernals Wien;0;AUT;3;11;5,5;7,75;2;;2;Hainzl;Thomas;
+20;Denk Kevin;;118094;1436;0;00.00.1993;AUT;;U16;;4069;Sv Eferding;0;AUT;3;7,5;3,5;4,50;2;;6;Denk;Kevin;
+21;Fugger Harald;;103328;1315;0;00.00.1963;AUT;;;;9075;Sc Elektro Saringer Gnesau;0;AUT;2½;7,5;4,5;4,00;2;;11;Fugger;Harald;
+22;Deisenhamer Wilhelm;;101807;1308;0;00.00.1953;AUT;;;;4025;Union Hartkirchen;1626477;AUT;2½;6,5;3;3,25;2;;14;Deisenhamer;Wilhelm;
+23;Högl Raphael;;120696;1287;0;00.00.2001;AUT;;U8;;2008;Sc Raika Sieghartskirchen;0;AUT;2½;9,5;4,5;5,25;1;;7;Högl;Raphael;
+24;Hermann Luc;;116995;1269;0;00.00.1980;BEL;;;;1035;Tschaturanga Wien;0;AUT;3½;10;5,5;8,50;2;;1;Hermann;Luc;
+25;Kienast Georg;;106571;1228;0;00.00.1986;AUT;;;;2075;Sk Gross Gerungs;0;AUT;1½;7,5;3,5;2,25;2;;23;Kienast;Georg;
+26;Ademovic Admir Ing.;;100049;0;0;00.00.1967;SLO;;;;9022;Sk Volksbank Lienz;0;AUT;2;9;4,5;3,75;2;;16;Ademovic;Admir;Ing.
+27;Fillafer Florian;;102895;0;0;00.00.1991;AUT;;U18;;9051;Sk Woelfnitz;0;AUT;3;8,5;5;5,50;2;;5;Fillafer;Florian;
+28;Griessmayr Daniel;;103992;0;0;00.00.1990;AUT;;U20;;5011;Mozart Salzburg;0;AUT;2;8;4;4,00;2;;18;Griessmayr;Daniel;
+29;Hollerweger Martin;;105435;0;0;00.00.1988;AUT;;;;5019;Sc Neumarkt/Wallersee;0;AUT;2;9;4,5;3,75;2;;17;Hollerweger;Martin;
+30;Jokoro Antony;;118637;0;0;00.00.1991;AUT;;U18;;2026;Asvoe Vhs Poechlarn/Kr.;0;AUT;2;9;5;3,75;2;;15;Jokoro;Antony;
+31;Kolar Helmut;;107066;0;0;00.00.1977;AUT;;;;8022;Schachfreunde Graz;0;AUT;1;9;4,5;1,50;2;;29;Kolar;Helmut;
+32;Kurz-Feil Peter;;107757;0;0;00.00.1948;AUT;;S60;;8041;Spg. Zeltweg-Knittelfeld;0;AUT;2½;8,5;4,5;4,25;2;;10;Kurz-Feil;Peter;
+33;Luttenberger Tobias;;121703;0;0;00.00.1994;AUT;;U16;;8054;Deutschfeistritz;0;AUT;3;9,5;5;6,00;2;;3;Luttenberger;Tobias;
