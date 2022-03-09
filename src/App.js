@@ -1,10 +1,17 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 
-export default function App() {
-  useEffect(() => {
-    fetch('/Exp.TXT').then((r) => r.text()).then((text) => {
-      document.write(text)
-    });
-  }, []);
-  return <div className='App'></div>;
+export default function App() { 
+    const showFile = (e) => {
+      e.preventDefault();
+      const reader = new FileReader();
+      reader.onload = (e) => {
+        const text = e.target.result;
+        document.write(text);
+    };
+    reader.readAsText(e.target.files[0]);
+  };
+
+  return <div>
+    arquivo .txt: <input name="file" type="file" onChange={showFile}/>
+  </div> 
 }
